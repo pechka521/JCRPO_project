@@ -1,16 +1,5 @@
-# film_app_test_123
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Personal Film Collection Manager представляет собой специализированное мобильное приложение, разработанное для ценителей кинематографа, которые желают систематизировать и управлять своей личной коллекцией фильмов. 
+Данный продукт позволяет пользователям не просто сохранять информацию о просмотренных фильмах, но и создавать персонализированную базу данных с возможностью добавления личных отзывов и рецензий.
+В рамках своего функционала приложение обеспечивает интеграцию с внешним кинематографическим API (OMDb), что позволяет автоматически получать актуальную информацию о фильмах, включая такие детали, как рейтинги, актерский состав, награды и другие существенные характеристики. 
+Однако важно отметить, что продукт имеет четко определенные границы - он не предусматривает социального взаимодействия между пользователями, таких функций как обмен коллекциями или комментирование, а также не поддерживает облачную синхронизацию между различными устройствами пользователя.
+ 
